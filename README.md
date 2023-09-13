@@ -20,3 +20,9 @@ This is a basic React project. Which is a landing page for a Pizza Resturant.
 ### What I learned
 
 I learned and used the basic fundamentals of React in this project, such as Components, Props, Conditional Rendering and array methods such as the map method.
+
+## Live site
+
+Here is a live site for the project for you to try out!
+
+- https://aaliyanasif.github.io/pizza-menu/
